@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Distributed-Application-Tracing"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Distributed-Application-Tracing?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Distributed-Application-Tracing"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Distributed-Application-Tracing?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Distributed-Application-Tracing/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Distributed-Application-Tracing?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Distributed-Application-Tracing/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Distributed-Application-Tracing?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -31,10 +31,10 @@ Welcome to the definitive, SEO-optimized curated directory of **distributed appl
 Whether you require enterprise-grade commercial SaaS observability platforms (such as *AWS X-Ray*, *Datadog APM*, *Dynatrace*, or *Honeycomb*) or self-hostable open-source alternatives (like *SigNoz*, *Apache SkyWalking*, *Jaeger*, or *Grafana Tempo*), this comprehensive guide covers category leaders, OpenTelemetry (OTel) pipelines, and ClickHouse-backed storage solutions.
 
 **Key Distributed Tracing & Observability Market Insights:** 💡
-- **SigNoz** is the **fastest-growing open-source Datadog alternative**, boasting **32,300+ GitHub stars**, ClickHouse-backed trace storage, and unified metrics, logs, and trace correlation. 📊
-- **Apache SkyWalking** is a **graduated CNCF observability suite** with **24,900+ GitHub stars**, excelling at Java/eBPF microservices performance monitoring and mesh telemetry. 🌌
-- **Jaeger** remains the **industry standard open-source tracing backend**, created by Uber, featuring **23,200+ GitHub stars** and native OpenTelemetry protocol (OTLP) ingestion. 🕵️
-- **OpenObserve** offers a **Rust-powered cloud-native backend** with **22,200+ GitHub stars**, reducing trace and log storage costs by up to 140x compared to Elasticsearch. 🌊
+- **SigNoz** is the **fastest-growing open-source Datadog alternative**, boasting **32,300+ GitHub_Stars**, ClickHouse-backed trace storage, and unified metrics, logs, and trace correlation. 📊
+- **Apache SkyWalking** is a **graduated CNCF observability suite** with **24,900+ GitHub_Stars**, excelling at Java/eBPF microservices performance monitoring and mesh telemetry. 🌌
+- **Jaeger** remains the **industry standard open-source tracing backend**, created by Uber, featuring **23,200+ GitHub_Stars** and native OpenTelemetry protocol (OTLP) ingestion. 🕵️
+- **OpenObserve** offers a **Rust-powered cloud-native backend** with **22,200+ GitHub_Stars**, reducing trace and log storage costs by up to 140x compared to Elasticsearch. 🌊
 
 ---
 
@@ -69,49 +69,49 @@ Whether you require enterprise-grade commercial SaaS observability platforms (su
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[SigNoz](https://github.com/SigNoz/signoz)** [![Stars](https://img.shields.io/github/stars/SigNoz/signoz?style=social&color=white)](https://github.com/SigNoz/signoz/stargazers)  
-  **Open-source Datadog alternative with OpenTelemetry-native APM**, Apache-2.0 licensed. **32.3K+ GitHub stars** — **unified traces, metrics, and logs** in a single pane . **ClickHouse-powered high-cardinality storage** . Built-in dashboards, alerts, and exception tracking . **The fastest-growing open-source observability platform** . 📊
+  **Open-source Datadog alternative with OpenTelemetry-native APM**, Apache-2.0 licensed. **32.3K+ GitHub_Stars** — **unified traces, metrics, and logs** in a single pane . **ClickHouse-powered high-cardinality storage** . Built-in dashboards, alerts, and exception tracking . **The fastest-growing open-source observability platform** . 📊
 
 - **[Apache SkyWalking](https://github.com/apache/skywalking)** [![Stars](https://img.shields.io/github/stars/apache/skywalking?style=social&color=white)](https://github.com/apache/skywalking/stargazers)  
-  **Observability platform for distributed systems**, Apache-2.0 licensed. **24.9K+ GitHub stars** — **APM, service mesh telemetry, eBPF profiling, and metrics aggregation** . Designed for cloud-native, microservices, and containerized architectures . **CNCF Graduated project** . 🌌
+  **Observability platform for distributed systems**, Apache-2.0 licensed. **24.9K+ GitHub_Stars** — **APM, service mesh telemetry, eBPF profiling, and metrics aggregation** . Designed for cloud-native, microservices, and containerized architectures . **CNCF Graduated project** . 🌌
 
 - **[Jaeger](https://github.com/jaegertracing/jaeger)** [![Stars](https://img.shields.io/github/stars/jaegertracing/jaeger?style=social&color=white)](https://github.com/jaegertracing/jaeger/stargazers)  
-  **Distributed tracing platform by Uber**, Apache-2.0 licensed. **23.2K+ GitHub stars** — **the standard open-source tracing backend** . End-to-end distributed tracing, root cause analysis, and service dependency graphs . **CNCF Graduated project** . Battle-tested at Uber scale . 🕵️
+  **Distributed tracing platform by Uber**, Apache-2.0 licensed. **23.2K+ GitHub_Stars** — **the standard open-source tracing backend** . End-to-end distributed tracing, root cause analysis, and service dependency graphs . **CNCF Graduated project** . Battle-tested at Uber scale . 🕵️
 
 - **[OpenObserve](https://github.com/openobserve/openobserve)** [![Stars](https://img.shields.io/github/stars/openobserve/openobserve?style=social&color=white)](https://github.com/openobserve/openobserve/stargazers)  
-  **Cloud-native observability platform**, Apache-2.0 licensed. **22.2K+ GitHub stars** — **logs, metrics, traces, and RUM** in one unified binary . Rust-based architecture providing **140x lower storage costs than Elasticsearch** . 🌊
+  **Cloud-native observability platform**, Apache-2.0 licensed. **22.2K+ GitHub_Stars** — **logs, metrics, traces, and RUM** in one unified binary . Rust-based architecture providing **140x lower storage costs than Elasticsearch** . 🌊
 
 - **[Pinpoint](https://github.com/pinpoint-apm/pinpoint)** [![Stars](https://img.shields.io/github/stars/pinpoint-apm/pinpoint?style=social&color=white)](https://github.com/pinpoint-apm/pinpoint/stargazers)  
-  **APM for large-scale distributed systems**, Apache-2.0 licensed. **13.8K+ GitHub stars** — Java/PHP/Python agent-based monitoring . Call stack visualization, server map topology, and real-time active thread monitoring . 📍
+  **APM for large-scale distributed systems**, Apache-2.0 licensed. **13.8K+ GitHub_Stars** — Java/PHP/Python agent-based monitoring . Call stack visualization, server map topology, and real-time active thread monitoring . 📍
 
 - **[Coroot](https://github.com/coroot/coroot)** [![Stars](https://img.shields.io/github/stars/coroot/coroot?style=social&color=white)](https://github.com/coroot/coroot/stargazers)  
-  **Open-source observability with zero instrumentation**, Apache-2.0 licensed. **7.9K+ GitHub stars** — **eBPF-based metrics, logs, traces, and continuous profiling** . Automatically detects application performance anomalies and root causes . 🎯
+  **Open-source observability with zero instrumentation**, Apache-2.0 licensed. **7.9K+ GitHub_Stars** — **eBPF-based metrics, logs, traces, and continuous profiling** . Automatically detects application performance anomalies and root causes . 🎯
 
 - **[OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector)** [![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-collector/stargazers)  
-  **Vendor-neutral telemetry processing proxy**, Apache-2.0 licensed. **7.6K+ GitHub stars** — High-performance proxy for receiving, processing, filtering, and exporting telemetry data (OTLP) . 🔭
+  **Vendor-neutral telemetry processing proxy**, Apache-2.0 licensed. **7.6K+ GitHub_Stars** — High-performance proxy for receiving, processing, filtering, and exporting telemetry data (OTLP) . 🔭
 
 - **[OpenTelemetry Go SDK](https://github.com/open-telemetry/opentelemetry-go)** [![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-go?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-go/stargazers)  
-  **Official Go implementation of OpenTelemetry**, Apache-2.0 licensed. **6.5K+ GitHub stars** — Enterprise Go distributed tracing instrumentation libraries and API standard . 🐹
+  **Official Go implementation of OpenTelemetry**, Apache-2.0 licensed. **6.5K+ GitHub_Stars** — Enterprise Go distributed tracing instrumentation libraries and API standard . 🐹
 
 - **[Grafana Tempo](https://github.com/grafana/tempo)** [![Stars](https://img.shields.io/github/stars/grafana/tempo?style=social&color=white)](https://github.com/grafana/tempo/stargazers)  
-  **High-scale distributed tracing backend**, AGPL-3.0 licensed. **5.5K+ GitHub stars** — **Object-storage only backend** requiring zero search indexes . **TraceQL query engine** integrated with Grafana, Loki, and Prometheus . 📈
+  **High-scale distributed tracing backend**, AGPL-3.0 licensed. **5.5K+ GitHub_Stars** — **Object-storage only backend** requiring zero search indexes . **TraceQL query engine** integrated with Grafana, Loki, and Prometheus . 📈
 
 - **[Uptrace](https://github.com/uptrace/uptrace)** [![Stars](https://img.shields.io/github/stars/uptrace/uptrace?style=social&color=white)](https://github.com/uptrace/uptrace/stargazers)  
-  **Open-source APM powered by OpenTelemetry and ClickHouse**, BSD-2-Clause licensed. **4.2K+ GitHub stars** — Monolithic single-binary distributed tracing and metrics platform with pre-built Grafana dashboard compatibility . 📉
+  **Open-source APM powered by OpenTelemetry and ClickHouse**, BSD-2-Clause licensed. **4.2K+ GitHub_Stars** — Monolithic single-binary distributed tracing and metrics platform with pre-built Grafana dashboard compatibility . 📉
 
 - **[OpenTelemetry JS SDK](https://github.com/open-telemetry/opentelemetry-js)** [![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-js?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-js/stargazers)  
-  **Official JavaScript / TypeScript OpenTelemetry SDK**, Apache-2.0 licensed. **3.4K+ GitHub stars** — Node.js and browser frontend distributed tracing instrumentation . 🟨
+  **Official JavaScript / TypeScript OpenTelemetry SDK**, Apache-2.0 licensed. **3.4K+ GitHub_Stars** — Node.js and browser frontend distributed tracing instrumentation . 🟨
 
 - **[OpenTelemetry Python SDK](https://github.com/open-telemetry/opentelemetry-python)** [![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-python?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-python/stargazers)  
-  **Official Python OpenTelemetry SDK**, Apache-2.0 licensed. **2.6K+ GitHub stars** — Tracing instrumentation for FastAPI, Django, Flask, and gRPC Python microservices . 🐍
+  **Official Python OpenTelemetry SDK**, Apache-2.0 licensed. **2.6K+ GitHub_Stars** — Tracing instrumentation for FastAPI, Django, Flask, and gRPC Python microservices . 🐍
 
 - **[OpenTelemetry Java SDK](https://github.com/open-telemetry/opentelemetry-java)** [![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-java?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-java/stargazers)  
-  **Official Java OpenTelemetry SDK & Auto-Instrumentation**, Apache-2.0 licensed. **2.4K+ GitHub stars** — Bytecode manipulation and auto-instrumentation agent for Spring Boot and JVM frameworks . ☕
+  **Official Java OpenTelemetry SDK & Auto-Instrumentation**, Apache-2.0 licensed. **2.4K+ GitHub_Stars** — Bytecode manipulation and auto-instrumentation agent for Spring Boot and JVM frameworks . ☕
 
 - **[Hypertrace](https://github.com/hypertrace/hypertrace)** [![Stars](https://img.shields.io/github/stars/hypertrace/hypertrace?style=social&color=white)](https://github.com/hypertrace/hypertrace/stargazers)  
-  **Cloud-native distributed tracing platform**, Apache-2.0 licensed. **500+ GitHub stars** — Service graph generation and trace-to-log correlation built on OpenTelemetry and Jaeger . 🔗
+  **Cloud-native distributed tracing platform**, Apache-2.0 licensed. **500+ GitHub_Stars** — Service graph generation and trace-to-log correlation built on OpenTelemetry and Jaeger . 🔗
 
 ---
 
